@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Light Theme Palette - Modern & Clean -->
+    <color name="light_background">#F3F4F6</color> <!-- Soft Grey White -->
+    <color name="light_surface">#FFFFFF</color>
+    <color name="light_text_primary">#1F2937</color> <!-- Dark Slate -->
+    <color name="light_text_secondary">#6B7280</color>
+    <color name="light_accent">#10B981</color> <!-- Emerald Green -->
+    <color name="light_accent_variant">#059669</color>
+
+    <!-- Dark Theme Palette - Deep & Professional -->
+    <color name="dark_background">#111827</color> <!-- Dark Blue-Grey Base -->
+    <color name="dark_surface">#1F2937</color> <!-- Lighter Dark Slate -->
+    <color name="dark_text_primary">#F9FAFB</color>
+    <color name="dark_text_secondary">#9CA3AF</color>
+    <color name="dark_accent">#34D399</color> <!-- Bright Emerald -->
+    <color name="dark_accent_variant">#6EE7B7</color>
+    
+    <!-- Shared/Legacy Colors -->
+    <color name="accent_green">#10B981</color>
+    <color name="colorError">#EF4444</color>
+    <color name="base_black">#111827</color>
+    <color name="text_grey">#9CA3AF</color>
+    <color name="surface_grey">#1F2937</color>
+
+    <!-- Missing Colors -->
+    <color name="ic_launcher_background">#34D399</color>
+</resources>
